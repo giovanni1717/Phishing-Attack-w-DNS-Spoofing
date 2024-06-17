@@ -1,2 +1,0 @@
-Inserire index.html in /var/www/localhost/htdocs
-Inserire httpd.conf in /etc/apache2
